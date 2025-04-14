@@ -1,0 +1,7 @@
+flask
+google-generativeai
+flask-cors
+chromadb
+langchain
+sentence-transformers
+python-dotenv
