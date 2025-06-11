@@ -3,5 +3,6 @@ google-generativeai
 flask-cors
 chromadb
 langchain
+langchain-community
 sentence-transformers
 python-dotenv
