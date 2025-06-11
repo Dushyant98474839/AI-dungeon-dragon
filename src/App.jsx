@@ -24,7 +24,7 @@ function App() {
     
     setLoading(true);
     try {
-      const response = await axios.post("http://localhost:5000/story", {
+      const response = await axios.post("https://ai-dungeon-dragon.onrender.com", {
         choice: selectedChoice, // Can be empty
         addon: addon.trim(),
       });
